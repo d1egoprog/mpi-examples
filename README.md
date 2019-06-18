@@ -26,6 +26,8 @@ VirtualBox | https://www.virtualbox.org/wiki/Downloads
 
 Just hit the following commands to download the packages in a fresh update Ubuntu Machine
 
+Note: this is for an single machine, for a MPI cluster need other configuration steps
+
 ```
 sudo apt-get -y install net-tools ssh
 sudo systemtcl enable ssh
