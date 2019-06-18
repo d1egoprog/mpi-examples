@@ -1,4 +1,4 @@
-# Message Passing Examples
+# Message Passing Examples ( Open-MPI )
 
 ## Requirements
 
