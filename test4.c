@@ -20,6 +20,6 @@ void procesandoAlgo(int numero){
 	for (int i=0;i<numero;i++)
 		printf("Imprimiendo %i de %i\n",i, numero);
 	printf("Termine de imprimir, ahora me toca esperar %i segundos\n", numero);
-	sleep(numero);
+	sleep(numero*10);
 	return;
 }
